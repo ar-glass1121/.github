@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="OJAK — 시선을 지키는 1줄 기억 전이, 근거가 없으면 침묵하는 AR 글래스" />
+  <img src="./assets/ojak-hero.png" width="100%" alt="OJAK — 시선을 지키는 한 줄 기억 전이, 질문이 들어온 순간만 띄우고 근거가 없으면 침묵하는 AR 글래스" />
 </p>
 
 <p align="center">
