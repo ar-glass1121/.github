@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340" role="img" aria-labelledby="title desc">
+  <title id="title">OJAK — CG&amp;I × KAIST 2026 XR·AI 윈터스쿨 Team T14</title>
+  <desc id="desc">시선을 지키는 1줄 기억 전이, 근거가 없으면 침묵하는 AR 글래스. Zero-UI HUD, Rokid Glasses, AIR4BTS, PACES Guard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1416"/>
+      <stop offset="1" stop-color="#102521"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22f08a"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#6ee7b7" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1120" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1120" height="340" rx="20" fill="url(#grid)"/>
+  <path d="M0 339H1120" stroke="url(#accent)" stroke-width="3"/>
+  <g font-family="'Apple SD Gothic Neo', 'Pretendard', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect x="48" y="40" width="28" height="4" rx="2" fill="#22f08a"/>
+    <text x="88" y="47" font-size="14" font-weight="600" letter-spacing="1.2" fill="#9fd6c2">CG&amp;I × KAIST 2026 XR·AI Winter School · Team T14</text>
+    <text x="44" y="142" font-size="78" font-weight="800" letter-spacing="-2" fill="#f4fbf7">OJAK</text>
+    <g transform="translate(268, 98) scale(2.1)">
+      <g transform="translate(-5, -8)">
+        <path fill="#22f08a" opacity="0.9" d="M23.4311 11.1C23.3578 11.025 23.2844 11 23.2111 11H8.78889C8.71556 11 8.64222 11.025 8.56889 11.1L7.29779 12.4C7.22446 12.475 7.2 12.55 7.2 12.625V15.7C7.2 15.875 7.32222 16 7.49333 16H24.5067C24.6778 16 24.8 15.875 24.8 15.7V12.625C24.8 12.55 24.7755 12.475 24.7022 12.4L23.4311 11.1ZM5 24.7V11.625C5 11.225 5.14667 10.85 5.44001 10.55L7.49333 8.45C7.78666 8.15 8.15334 8 8.54445 8H23.4555C23.8467 8 24.2133 8.15 24.5067 8.45L26.56 10.55C26.8533 10.85 27 11.225 27 11.625V24.7C27 24.875 26.8778 25 26.7067 25H23.6267C23.4555 25 23.3333 24.875 23.3333 24.7V22.125C23.3333 22.05 23.3578 21.975 23.4311 21.9L24.7022 20.6C24.7755 20.525 24.8 20.45 24.8 20.375V19.3C24.8 19.125 24.6778 19 24.5067 19H7.49333C7.32222 19 7.2 19.125 7.2 19.3V20.375C7.2 20.45 7.22446 20.525 7.29779 20.6L8.56889 21.9C8.64222 21.975 8.66667 22.05 8.66667 22.125V24.7C8.66667 24.875 8.54446 25 8.37334 25H5.29333C5.12222 25 5 24.875 5 24.7Z"/>
+        <path fill="#22f08a" opacity="0.9" d="M14 10V16H12V10H14Z"/>
+        <path fill="#22f08a" opacity="0.9" d="M20 10V16H18V10H20Z"/>
+      </g>
+    </g>
+    <text x="48" y="196" font-size="24" font-weight="600" fill="#e6f5ee">시선을 지키는 1줄 기억 전이,</text>
+    <text x="48" y="231" font-size="24" font-weight="600" fill="#e6f5ee">근거가 없으면 침묵하는 AR 글래스.</text>
+    <g font-size="13" font-weight="600" fill="#a7f3d0" text-anchor="middle">
+      <rect x="48" y="271" width="118" height="30" rx="15" fill="#13312a" stroke="#245c4e"/>
+      <text x="107" y="291">Zero-UI HUD</text>
+      <rect x="178" y="271" width="130" height="30" rx="15" fill="#13312a" stroke="#245c4e"/>
+      <text x="243" y="291">Rokid Glasses</text>
+      <rect x="320" y="271" width="96" height="30" rx="15" fill="#13312a" stroke="#245c4e"/>
+      <text x="368" y="291">AIR4BTS</text>
+      <rect x="428" y="271" width="124" height="30" rx="15" fill="#13312a" stroke="#245c4e"/>
+      <text x="490" y="291">PACES Guard</text>
+    </g>
+    <g fill="none" stroke="#356f60" stroke-width="1.5">
+      <rect x="644" y="66" width="176" height="74" rx="14" fill="#102521"/>
+      <rect x="884" y="66" width="184" height="74" rx="14" fill="#102521"/>
+      <rect x="756" y="206" width="200" height="74" rx="14" fill="#123029"/>
+      <path d="M820 103H884" stroke="#22f08a" stroke-width="2"/>
+      <path d="m829 98-9 5 9 5" stroke="#22f08a" stroke-width="2"/>
+      <path d="m875 98 9 5-9 5" stroke="#22f08a" stroke-width="2"/>
+      <path d="M732 140v28h124v38M976 140v28H856" stroke-dasharray="5 5"/>
+      <circle cx="856" cy="168" r="5" fill="#22f08a" stroke="#22f08a"/>
+    </g>
+    <g text-anchor="middle" font-weight="600">
+      <text x="732" y="99" font-size="14" fill="#dcfce7">Rokid Glasses</text>
+      <text x="732" y="121" font-size="11.5" font-weight="500" fill="#86efac">Audio · Camera · HUD</text>
+      <text x="976" y="99" font-size="14" fill="#dcfce7">PC Backend</text>
+      <text x="976" y="121" font-size="11.5" font-weight="500" fill="#86efac">Whisper · LLM · Guard</text>
+      <text x="856" y="237" font-size="14" fill="#4ade80">Session Memory &amp; Guard</text>
+      <text x="856" y="259" font-size="12" font-weight="500" fill="#a7f3d0">답 · 주의 · 침묵 (PACES)</text>
+    </g>
+  </g>
+</svg>
