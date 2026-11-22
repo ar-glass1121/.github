@@ -11,6 +11,7 @@
   <a href="https://github.com/ar-glass1121/glass"><b>프로젝트 (glass)</b></a> &nbsp; · &nbsp;
   <a href="#배경">배경</a> &nbsp; · &nbsp;
   <a href="#개요">개요</a> &nbsp; · &nbsp;
+  <a href="#시연-영상">시연 영상</a> &nbsp; · &nbsp;
   <a href="#팀">팀</a> &nbsp; · &nbsp;
   <a href="#담당-범위-상세">담당 범위</a> &nbsp; · &nbsp;
   <a href="#리포지토리">리포지토리</a>
@@ -33,6 +34,27 @@
 - **Transfer (전이·가드)**: 호스팅 LLM이 세션 기록을 고르고, 결정적 추출식 가드가 *"안경의 모든 글자는 인용한 기록의 조각(또는 비공개 기록의 안전 문구)이며 폭 20 이내 한 줄인가"*를 검증해 **답(`transfer`) · 안전 문구(`restrict`) · 침묵(`non_transfer`)** 세 가지 결과만 출력합니다.
 - **Verify (검증)**: 합성 평가 세트(`81`문장 튜닝 세트 + `30`문장 held-out)와 기억 추가에 따른 응답 변화 확인, 안경 카메라 기반 화이트보드·수기 합의 대조(`Visual Verify`)로 루프를 닫습니다.
 - **파일럿 측정 (개발 Mac M4 · `gpt-5.1` · 합성 문장/작성자 1인 라벨 · 안경/실제 음성 미측정)**: 튜닝 81문장×3회 중 기대 일치 **96.3%(234/243)**, 답할 수 있는 질문 **135/141 정답(틀린 사실 0회)**, held-out 30문장 **29/30**(침묵해야 할 때 오출력 **0/12**), 비공개 값 노출 **0회**, 발화 끝→한 줄 **2.0–2.9초**.
+
+## 시연 영상
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=7k147PfKnkk">
+        <img src="https://i.ytimg.com/vi/7k147PfKnkk/maxresdefault.jpg" width="100%" alt="OJAK Studio 웹앱 대시보드 시연 영상" />
+      </a><br>
+      <b>웹앱 대시보드 (OJAK Studio)</b><br>
+      <sub>실행 · QR 연결 · 세션 관리 · 온톨로지 그래프 · HUD 미러<br><a href="https://www.youtube.com/watch?v=7k147PfKnkk">YouTube에서 보기 ↗</a></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://www.youtube.com/shorts/_8tFABfBR_A">
+        <img src="https://i.ytimg.com/vi/_8tFABfBR_A/maxresdefault.jpg" width="100%" alt="OJAK Android 서드파티 컴패니언 앱 시연 영상" />
+      </a><br>
+      <b>핸드폰 서드파티 앱 (자체 제작 OJAK Android 앱)</b><br>
+      <sub>공식 Hi Rokid 앱이 아닌 CXR-L SDK 기반 자체 구현 컴패니언 (회의 · 검토 · 설정)<br><a href="https://www.youtube.com/shorts/_8tFABfBR_A">YouTube Shorts에서 보기 ↗</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## 팀
 
