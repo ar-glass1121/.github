@@ -70,7 +70,7 @@
       <a href="https://github.com/signal0809"><img src="https://avatars.githubusercontent.com/signal0809?s=200" width="80" height="80" alt="강정현" /></a><br>
       <b>강정현</b><br>
       <a href="https://github.com/signal0809"><sub>@signal0809</sub></a><br><br>
-      <sub>서울여자대학교 · XREAL<br>UX 리서치 · 문제/가설 기획<br>발표 · 시연 참여</sub>
+      <sub>서울여자대학교 · XREAL 11기<br>문제/가설 기획 · UX 리서치<br>발표 · 시연 참여</sub>
     </td>
   </tr>
 </table>
