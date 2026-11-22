@@ -64,13 +64,13 @@
       <a href="https://github.com/PJH720"><img src="https://avatars.githubusercontent.com/PJH720?s=200" width="80" height="80" alt="박재현" /></a><br>
       <b>박재현</b><br>
       <a href="https://github.com/PJH720"><sub>@PJH720</sub></a><br><br>
-      <sub>서강대학교 · XREAL 11기<br>백엔드 · 기억(온톨로지) · 가드 · 검증</sub>
+      <sub>서강대학교 · XREAL 11기<br>풀스택 개발 (클라이언트 · 백엔드)<br>기억(온톨로지) · 가드 · 검증</sub>
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/signal0809"><img src="https://avatars.githubusercontent.com/signal0809?s=200" width="80" height="80" alt="강정현" /></a><br>
       <b>강정현</b><br>
       <a href="https://github.com/signal0809"><sub>@signal0809</sub></a><br><br>
-      <sub>서울여자대학교 · XREAL<br>UX 리서치 · 클라이언트 · 디자인 · 발표</sub>
+      <sub>서울여자대학교 · XREAL<br>UX/UI 리서치 · 기획 · 디자인<br>발표 · 라이브 시연</sub>
     </td>
   </tr>
 </table>
@@ -79,8 +79,8 @@
 
 | 담당 | 영역 | 상세 |
 | :--- | :--- | :--- |
-| **박재현** | 백엔드 · 기억(온톨로지) · 가드 · 검증 | FastAPI WebSocket/HTTP 파이프라인, 로컬 `mlx-whisper` 전사 및 한국어 질문 감지, LLM 판정기 및 추출식 가드(`transfer`/`restrict`/`non_transfer`·긴 답 압축), 세션·텍스트 PDF 사실 추출 및 프로젝트 온톨로지 그래프, `OJAK Studio`(런처·1회용 QR 페어링·HUD 미러)·Visual Verify, 파일럿 평가 세트(`eval_qa.py`) 및 검증 |
-| **강정현** | UX 리서치 · 클라이언트 · 디자인 · 발표 | 문제 정의("시선이 끊기는 15초") 및 유저 저니맵, 연구 가설 1–3 설계, 한국어 완화사/추상어 정량 매핑 사전, Rokid 단색 그린 HUD(20dp·시야 하단 안전 영역) UX 가이드라인 및 `OJAK` 브랜드·안드로이드 아이콘 디자인, Android/Rokid CXR-L 컴패니언 클라이언트, 최종 발표 및 라이브 시연 |
+| **박재현** | 클라이언트 · 백엔드 · 기억(온톨로지) · 가드 · 검증 | Android/Rokid CXR-L 서드파티 컴패니언 앱 및 `OJAK Studio` 웹앱(클라이언트) 개발, FastAPI WebSocket/HTTP 백엔드 파이프라인, 로컬 `mlx-whisper` 전사 및 한국어 질문 감지, LLM 판정기 및 추출식 가드(`transfer`/`restrict`/`non_transfer`·긴 답 압축), 세션·PDF 사실 추출·프로젝트 온톨로지 그래프, 1회용 QR 페어링·Visual Verify, 파일럿 평가(`eval_qa.py`) 및 검증 |
+| **강정현** | UX/UI 리서치 · 기획 · 디자인 · 발표 | 문제 정의("시선이 끊기는 15초") 및 유저 저니맵, 연구 가설 1–3 설계, 한국어 완화사/추상어 정량 매핑 사전, Rokid 단색 그린 HUD(20dp·시야 하단 안전 영역) UX 가이드라인 조사 및 `OJAK` 네이밍·앱 아이콘 디자인, 최종 발표 및 글래스 착용 라이브 시연 |
 
 ## 리포지토리
 
